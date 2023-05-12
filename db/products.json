@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "name": "sadsad",
+      "description": "asddsa",
+      "inStock": false,
+      "price": "12313",
+      "id": 1
+    },
+    {
+      "name": "sadsad",
+      "description": "asddsa",
+      "inStock": false,
+      "price": "12313",
+      "id": 2
+    },
+    {
+      "name": "sadsad",
+      "description": "asddsa",
+      "inStock": false,
+      "price": "12313",
+      "id": 3
+    }
+  ]
+}
